@@ -36,4 +36,4 @@ else
    echo "Usage:$0 {start|stop|restart}"
    exit 1
 fi
-
+echo "这个脚本也太简单了把！！！"
